@@ -1,16 +1,16 @@
 ---
-tags: [valorant, agent, duelist]
-last_updated: 2026-04-28
+tags: [valorant, agent, sentinel]
+last_updated: 2026-05-09
 sources:
   - VALORANT_Patch_Notes_12.06.md
   - valorant_patch_notes_12.08.md
 ---
 
-# ヴィトー (Vito)
+# ヴェト (Veto)
 
 ## 概要
 
-エヴォリューション（変身系）アビリティを持つデュエリスト。クロスカットとチョークホールドで攻守両面に対応する。
+エヴォリューション（変身系）アビリティを持つセンチネル。クロスカットとチョークホールドでエリアをコントロールする。
 
 ## 現在の評価
 

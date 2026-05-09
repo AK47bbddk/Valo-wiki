@@ -6,7 +6,7 @@ sources:
   - valorant_patch_notes_12.08.md
 ---
 
-# テホ (Teho)
+# テジョ (Tejo)
 
 ## 概要
 

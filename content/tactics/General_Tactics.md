@@ -51,6 +51,13 @@ sources:
 - **戦術のじゃんけん構造**: スキルテイク、スキルカウンター、ドライ進行などの相性関係。詳細は [[Tactical_RPS]] を参照。
 - **ターンの概念**: ラウンド中のアクションとリアクションのラリーを制する考え方。詳細は [[Round_Turn_Theory]] を参照。
 
+## アビリティ運用 (Ability Usage)
+アビリティを適切に使い分けることで、戦況を有利に進めることができます。詳細は [[Skill_Usage_Fundamentals]] を参照。
+
+- **スモーク**: 射線と情報の遮断。
+- **グレネード**: ポジションの破壊と排除。
+- **モロトフ**: ポジション封鎖と強力な足止め。
+
 ## 関連ページ
 - [[Current_Meta]]
 - [[Area_Evaluation]]
@@ -59,3 +66,4 @@ sources:
 - [[Resource_Theory]]
 - [[Tactical_RPS]]
 - [[Round_Turn_Theory]]
+- [[Skill_Usage_Fundamentals]]

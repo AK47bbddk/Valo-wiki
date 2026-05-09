@@ -6,7 +6,7 @@ sources:
   - valorant_patch_notes_12.08.md
 ---
 
-# ミクス (Mix)
+# ミクス (Miks)
 
 ## 概要
 

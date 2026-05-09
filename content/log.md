@@ -164,15 +164,31 @@
 
 ## [2026-05-08] ingest | Neon_Agent_Analysis.md / Pheonix_memo.md
 
+... (unchanged) ...
+
+- [[index.md]] を更新 — [[Phoenix]] を追加
+
+## [2026-05-09] ingest | valorant_agent_list.md / skill_use.md
+
 ### 新規作成ページ
 
 **エージェント**
-- [[Phoenix]] を新規作成 — 高回転ULTと強力なフラッシュ、[[Neon]] とのシナジーを解説
+- [[Iso]]、[[Reyna]]、[[Sova]]、[[Skye]]、[[Breach]]、[[Fade]]、[[Omen]]、[[Astra]]、[[Brimstone]]、[[Harbor]]、[[Cypher]]、[[Killjoy]]、[[Vyse]]、[[Chamber]]、[[Deadlock]] を新規作成。
+- エージェント名の修正とロールの適正化を実施：
+    - [[Tejo]]（イニシエーター）：旧 Teho から修正
+    - [[Veto]]（センチネル）：旧 Vito (Duelist) から修正
+    - [[Wayley]]：旧 Waylei から修正
+    - [[Miks]]：旧 Mix から修正
+
+**概念**
+- [[Skill_Usage_Fundamentals]] を新規作成 — スモーク、グレネード、モロトフの役割と運用方法を解説。
 
 ### 更新ページ
 
-**エージェント**
-- [[Neon]] を更新 — タンク性能、ショットガンシナジー、およびフェニックスとのダブルデュエリスト構成を追記
+**戦術**
+- [[General_Tactics]] を更新 — 新たに「アビリティ運用」セクションを追加し、[[Skill_Usage_Fundamentals]] へのリンクを集約。
 
 **その他**
-- [[index.md]] を更新 — [[Phoenix]] を追加
+- [[index.md]] を更新 — 修正後の全エージェントと [[Skill_Usage_Fundamentals]] を各カテゴリに登録。
+
+
