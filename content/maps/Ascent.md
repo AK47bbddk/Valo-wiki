@@ -57,5 +57,5 @@ sources:
 
 ## 関連ページ
 - [[Current_Meta]]
-- [[General_Tactics]]
-- [[Vision_Management]]
+- [[汎用戦術]]
+- [[視点移動の使い分け]]

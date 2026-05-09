@@ -58,5 +58,5 @@ sources:
 
 ## 関連ページ
 - [[Current_Meta]]
-- [[General_Tactics]]
-- [[Formation_1_X]]
+- [[汎用戦術]]
+- [[1－x構造]]

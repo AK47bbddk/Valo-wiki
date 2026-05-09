@@ -35,5 +35,5 @@ sources:
 - **ホールドしやすい**: 射線が限定的、ポジションが強い（例：[[Haven]] Aメイン）。
 
 ## 関連ページ
-- [[General_Tactics]]
-- [[Line_of_Sight_Fundamentals]]
+- [[汎用戦術]]
+- [[射線管理の基本]]

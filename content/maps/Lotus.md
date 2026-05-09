@@ -68,6 +68,6 @@ sources:
 ## 関連ページ
 - [[Current_Meta]]
 - [[Area_Evaluation]]
-- [[General_Tactics]]
+- [[汎用戦術]]
 - [[Raze]]
 - [[Neon]]
