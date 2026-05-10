@@ -1,15 +1,22 @@
 ---
 tags: [valorant, agent, controller]
-last_updated: 2026-05-09
+last_updated: 2026-05-10
 sources:
   - VALORANT_Patch_Notes_12.06.md
   - valorant_patch_notes_12.08.md
   - Valorant_Agents.md
+  - valorant_play_guide.md
 ---
 
 # ヴァイパー (Viper)
+...
+## 推奨される立ち回り
 
-## 概要
+### ポストプラント（設置後）
+- **空爆による解除阻止**: スネークバイト（毒液）を設置済みのスパイク（C4）周辺に散布することで、敵の解除を物理的に阻止し、時間を稼ぐことができます。
+
+## アビリティ
+...
 
 化学物質を操り、視界遮断と強力なデバフで戦場を支配するコントローラーです。エリアの防衛と制圧において無類の強さを発揮します。
 

@@ -19,6 +19,10 @@ valorant-wiki/
 │
 ├── wiki/                 # Read / Write
 │   ├── agents/
+|   |   ├── duelist
+|   |   ├── initiator
+|   |   ├── controller
+|   |   └── sentinel
 │   ├── maps/
 │   ├── meta/
 │   ├── tactics/
