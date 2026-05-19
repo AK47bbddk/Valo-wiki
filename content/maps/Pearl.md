@@ -1,9 +1,10 @@
 ---
 tags: [valorant, map, competitive]
-last_updated: 2026-05-08
+last_updated: 2026-05-19
 sources:
   - Pearl_Match_Analysis_20260507.md
   - Pearl_EF_vs_TH_Match_Analysis.md
+  - 各マップ オススメ構成 キャラ.md
 ---
 
 # Pearl (パール)
@@ -55,6 +56,18 @@ sources:
 - [[Cypher]]：Bロング索敵、裏取り待機。
 - [[Fade]]：索敵情報の提供、サイト制圧。
 - [[Astra]]：精密なスキル連携、射線分断。
+
+## 推奨構成
+
+### フェニックス構成（速攻型）
+[[Jett]] / [[Phoenix]] / [[Fade]] / [[Astra]] / [[Killjoy]]（or [[Vyse]] / [[Cypher]]）
+
+フェニックスのULTでオーブ確保を急ぎ、早期アルティメット獲得を狙う。アストラの星でMID支配とサイト制圧を両立。
+
+### 2イニシエータ構成（情報制圧型）
+[[Jett]] / [[Astra]] / [[Killjoy]] / ＋2イニシエータ（[[Tejo]]+[[Skye]] / [[Tejo]]+[[Fade]] / [[Sova]]+[[KAYO]] / [[Tejo]]+[[KAYO]] 等）
+
+豊富な索敵・フラッシュでミッドとBロングの情報を先行取得。アストラとキルジョイの組み合わせで守りの主軸を形成。
 
 ## 関連ページ
 - [[Current_Meta]]

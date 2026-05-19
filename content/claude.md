@@ -28,6 +28,8 @@ valorant-wiki/
 │   ├── tactics/
 │   ├── weapons/
 │   └── concepts/
+│       ├── micro/        # 個人技・エイム・撃ち合いに関するミクロ概念
+│       └── macro/        # チーム全体の動き・戦術に関するマクロ概念
 │
 ├── index.md              # Read / Write
 ├── log.md                # Read / Write
@@ -65,7 +67,8 @@ valorant-wiki/
 | `meta/` | パッチごとのメタ分析 |
 | `tactics/` | 汎用戦術 |
 | `weapons/` | 武器評価 |
-| `concepts/` | 用語集 |
+| `concepts/micro/` | 個人技・エイム・撃ち合いに関するミクロ概念 |
+| `concepts/macro/` | チーム全体の動き・戦術に関するマクロ概念 |
 
 ---
 

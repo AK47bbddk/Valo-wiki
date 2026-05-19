@@ -1,8 +1,9 @@
 ---
 tags: [valorant, map, competitive]
-last_updated: 2026-05-08
+last_updated: 2026-05-19
 sources:
   - Fracture_Match_Analysis_20260507.md
+  - 各マップ オススメ構成 キャラ.md
 ---
 
 # Fracture (フラクチャー)
@@ -51,6 +52,23 @@ H型の構造を持ち、攻撃側がサイトを挟み込む（スプリット�
 - [[Fade]]：初期索敵、サイト破壊。
 - [[Cypher]]：進行遅延、情報収集。
 - [[Breach]]：強力なサイトエントリーサポート。
+
+## 推奨構成
+
+### 2デュエ構成（速攻型 A）
+[[Neon]] / [[Raze]] / [[Breach]] / [[Brimstone]] / [[Cypher]]
+
+ネオン＋レイズの高速エントリーにブリーチのサポートを組み合わせる。ブリムストーンの瞬間スモーク、サイファーの情報収集で補完。
+
+### 2デュエ構成（速攻型 B）
+[[Jett]] / [[Phoenix]] / [[Fade]] / [[Brimstone]] / [[Cypher]]
+
+フェニックスのULTによるリスクなしのエントリーとフェイドの索敵を組み合わせた攻撃的な構成。
+
+### 2イニシエータ構成（情報型）
+[[Jett]] / [[Breach]] / [[Skye]]（or [[Tejo]] / [[Fade]] / [[Sova]]）/ [[Brimstone]] / [[Cypher]]
+
+豊富なフラッシュ・索敵でH型マップの複雑な挟み込みセットを強力にサポート。
 
 ## 関連ページ
 - [[Current_Meta]]

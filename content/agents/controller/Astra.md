@@ -1,9 +1,10 @@
 ---
 tags: [valorant, agent, controller]
-last_updated: 2026-05-09
+last_updated: 2026-05-10
 sources:
   - valorant_agent_list.md
   - Valorant_Agents.md
+  - valorant_patch_12_05.md
 ---
 
 # アストラ (Astra)
@@ -35,4 +36,10 @@ sources:
 | ノヴァパルス | 星を発動し、周囲の敵に強力なスタン（目眩）を与える |
 | ネビュラ | 星を発動し、長時間持続するスモークを展開する |
 | コズミックディバイド（ULT） | 巨大な壁を生成し、銃弾を遮断し音も完全にカットする |
+
+## パッチ履歴
+
+### パッチ 12.05
+- **スター（パッシブ）**
+  - 回収のクールダウン延長：25秒 >>> 35秒
 

@@ -1,12 +1,13 @@
 ---
 tags: [valorant, map, competitive]
-last_updated: 2026-05-08
+last_updated: 2026-05-19
 sources:
   - VALORANT_Patch_Notes_12.06.md
   - valorant_patch_notes_12.08.md
   - VALORANT_Lotus_Map_Guide.md
   - Lotus_EF_vs_TH_Match_Analysis.md
   - Lotus_Area_Analysis.md
+  - 各マップ オススメ構成 キャラ.md
 ---
 
 # Lotus (ロータス)
@@ -64,6 +65,18 @@ sources:
 - [[Omen]]：パラノイアによるサポート、TPによるエリアテイク。
 - [[Neon]] / [[Raze]]：機動力を活かしたエントリー、エリア制圧。
 - [[Vyse]]：デュエリストのエントリー阻止。
+
+## 推奨構成
+
+### 2コン構成（エリア制圧型）
+[[Raze]] / [[Fade]] / [[Omen]] / [[Viper]] / [[Vyse]]
+
+ダブルコントローラーで3サイトの広大なエリアを管理。ヴァイスでラーク・エントリーを阻止し、フェイドのサイト制圧と連携する。
+
+### 2デュエ構成（速攻型）
+[[Jett]] / [[Raze]] / [[Skye]] / [[Omen]] / [[Vyse]]
+
+ダブルデュエリストでサイト速攻を狙う。スカイのフラッシュ・ヒール、ヴァイスのガジェットで防衛時の人数差を補う。
 
 ## 関連ページ
 - [[Current_Meta]]

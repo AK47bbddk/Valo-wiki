@@ -1,9 +1,11 @@
 ---
 tags: [valorant, agent, controller]
-last_updated: 2026-05-09
+last_updated: 2026-05-10
 sources:
   - valorant_agent_list.md
   - Valorant_Agents.md
+  - valorant_patch_12_05.md
+  - valorant_patch_11_10.md
 ---
 
 # オーメン (Omen)
@@ -35,3 +37,11 @@ sources:
 | ダークカヴァー | 影の球体を設置し、長時間視界を遮る。飛距離や高さを自在に調整可能 |
 | フロム・ザ・シャドウズ（ULT） | マップ上の任意の場所へテレポートする。索敵ツールとしても極めて優秀 |
 
+## パッチ履歴
+
+### パッチ 11.10
+- ダークカヴァーを設置する際、観戦者がオーメンの視点で見られるように改善。
+
+### パッチ 12.05
+- **ダークカヴァー (E)**
+  - クールダウン延長：30秒 >>> 40秒

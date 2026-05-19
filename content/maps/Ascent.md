@@ -1,10 +1,11 @@
 ---
 tags: [valorant, map, competitive]
-last_updated: 2026-05-08
+last_updated: 2026-05-19
 sources:
   - valorant_patch_notes_12.08.md
   - ascent_guide.md
   - Ascent_Match_Analysis_20260507.md
+  - 各マップ オススメ構成 キャラ.md
 ---
 
 # Ascent (アセント)
@@ -54,6 +55,23 @@ sources:
 - [[Viper]]：サイト制圧。
 - [[Cypher]] / [[Vyse]]：エリアホールド、罠による遅延。
 - [[Chamber]]：スコープ武器を活かしたピック。
+
+## 推奨構成
+
+### 元祖メタ構成
+[[Jett]] / [[KAYO]] / [[Sova]] / [[Omen]] / [[Killjoy]]
+
+安定した情報収集とエリアホールドを両立するスタンダード構成。ソーヴァのリコンとKAYOの抑制でアビリティ戦を制する。
+
+### FNC構成（欺瞞型）
+[[Yoru]] / [[Vyse]] / [[Sova]] / [[Omen]] / [[Chamber]]
+
+ヨルのデコイと高精度の索敵・射線管理を組み合わせ、情報戦で相手を翻弄する構成。
+
+### PRX構成（攻撃特化）
+[[Raze]] / [[Reyna]] / [[Omen]] / [[Harbor]] / [[Viper]]
+
+ダブルデュエリスト＋ダブルコントローラーによる圧倒的なエントリー火力と視界制圧が特徴。
 
 ## 関連ページ
 - [[Current_Meta]]
